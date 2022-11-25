@@ -4,10 +4,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 Mobile Design
-![Mobile Design](/product-preview-card-component/mobile-design.png)
+![Mobile Design](./mobile-design.png)
 
 Desktop Design
-![Desktop Design](/product-preview-card-component/desktop-design.png)
+![Desktop Design](./desktop-design.png)
 
 ### Links
 
