@@ -3,10 +3,9 @@
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). 
 
 ### Screenshot
-Mobile Design
+
 ![Mobile Design](./mobile-design.png)
 
-Desktop Design
 ![Desktop Design](./desktop-design.png)
 
 ### Links
