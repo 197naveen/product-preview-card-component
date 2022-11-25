@@ -3,14 +3,15 @@
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). 
 
 ### Screenshot
+Mobile Design
+![Mobile Design](/product-preview-card-component/mobile-design.png)
 
-![Mobile Design](./mobile%20design.png)
-
-![Desktop Design](./desktop%20design.png)
+Desktop Design
+![Desktop Design](/product-preview-card-component/desktop-design.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://197naveen.github.io/order-summary-component/index.html)
+- Live Site URL: [Add live site URL here](https://197naveen.github.io/product-preview-card-component/index.html)
 
 ### Built with
 
